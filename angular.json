@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Weather-Repo"
+    }
+  },
+  "defaultProject": "Weather-Repo",
+  "cli": {
+    "analytics": "455dcc73-fc86-4838-92ab-17952dbaa7e9"
+  }
 }
